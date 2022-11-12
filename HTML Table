@@ -1,0 +1,20 @@
+HTML Tables:-
+
+HTML table tag is used to display data in tabular form (row * column). There can be many columns in a row.
+
+can create a table to display data in tabular form, using <table> element, with the help of <tr> , <td>, and <th> elements.
+
+In Each table, table row is defined by <tr> tag, table header is defined by <th>, and table data is defined by <td> tags.
+
+HTML tables are used to manage the layout of the page e.g. header section, navigation bar, body content, footer section etc. But it is recommended to use div tag over table to manage the layout of the page .
+
+<table>	It defines a table.
+<tr>	It defines a row in a table.
+<th>	It defines a header cell in a table.
+<td>	It defines a cell in a table.
+<tbody>	It is used to group the body content in a table.
+<thead>	It is used to group the header content in a table.
+<tfooter>	It is used to group the footer content in a table.
+<caption>	It defines the table caption.
+<colgroup>	It specifies a group of one or more columns in a table for formatting.
+<col>	It is used with <colgroup> element to specify column properties for each column.
