@@ -1,0 +1,37 @@
+<body>  
+	<div class="container">
+	  <table>
+		<tr>
+		  <th>S.no.</th>
+		  <th>Movie Name</th>
+		  <th>Heroine Name</th>
+		  <th>Hero Name</th>
+		  <th>Director</th>
+		  <th>Music Director</th>
+          <th>Image</th>
+		</tr>
+		<tr>
+		  <td>1</td>
+		  <td>Billa</td>
+		  <td>Anushka Shetty</td>
+		  <td>Prabhas</td>
+		  <td>Meher Ramesh</td>
+		  <td>Mani Sharma</td>
+          <td>
+            <img src="https://www.bing.com/th?id=OSK.50e8ce68d6c77c6954bb79a3b1bbea5c&w=124&h=168&c=7&o=6&dpr=1.3&pid=SANGAM" />
+          </td>
+		</tr>
+		<tr>
+            <td>2</td>
+            <td>Mirchi</td>
+            <td>Anushka Shetty</td>
+            <td>Prabhas</td>
+            <td>koratala siva</td>
+            <td>DSP</td>
+            <td>
+                <img src="https://th.bing.com/th/id/OIP.Txtu9grcGhTWWmd53ktgVQAAAA?pid=ImgDet&w=184&h=122&c=7&dpr=1.3" />
+            </td>
+		</tr>
+		</table>
+	</div>
+</body>
