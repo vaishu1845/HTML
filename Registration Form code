@@ -1,0 +1,68 @@
+<html><head>
+    <style>
+    body{
+background-color:pink;
+}
+
+h2{
+text-align:center;
+font-style:italic;
+font-size:30px;
+font-weight:bold;
+}
+
+label{
+margin-left:40%;
+}
+input{
+margin-left:50%;
+}
+p{
+font-weight:bold;
+font-size:20px;
+}
+    </style>
+    
+</head><body>
+
+<h2>Registration Form</h2>
+<form>
+  <label for="fname" style="
+    margin-left: 40%;
+">First name:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname"><br>
+
+ <label for="fname">Phone Number:</label><br>
+  <input type="text" id="fname" name="fname"><br><br>
+  <label for="lname">Email Id:</label><br>
+  <input type="text" id="lname" name="lname">
+</form>
+<p>Gender:</p>
+
+<form>
+
+&nbsp; <input type="radio" id="html" name="fav_language" value="Male">
+&nbsp; <label for="html">Male</label><br>
+&nbsp; <input type="radio" id="css" name="fav_language" value="Female">
+&nbsp; <label for="css">Female</label><br>
+
+</form> 
+<p>Address:</p>
+<form>
+ <label for="fname">Street/Lane:</label><br>
+  <input type="text" id="fname" name="fname"><br><br>
+  <label for="lname">City:</label><br>
+  <input type="text" id="lname" name="lname"><br><br>
+ <label for="fname">State:</label><br>
+  <input type="text" id="fname" name="fname"><br><br>
+  <label for="lname">Country:</label><br>
+  <input type="text" id="lname" name="lname"><br><br>
+</form> 
+<button type="submit" form="form1" value="Submit">Submit</button>
+
+
+
+
+</body></html>
